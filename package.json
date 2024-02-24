@@ -27,12 +27,12 @@
     "@wdio/mocha-framework": "^8.0.14",
     "@wdio/spec-reporter": "^5.18.7",
     "@wdio/sync": "^5.20.1",
-    "chromedriver": "^105.0.1",
+    "chromedriver": "^119.0.1",
     "eslint": "^6.8.0",
     "wdio-chromedriver-service": "^5.0.2"
   },
   "dependencies": {
     "axios": "^1.6.4",
-    "chai": "^4.3.7"
+    "chai": "^4.3.10"
   }
 }
